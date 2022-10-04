@@ -1,8 +1,9 @@
-# Boas vindas ao repositório do projeto de Trivia!
+# Trivia
 
-Foi desenvolvido um jogo de perguntas e respostas baseado no jogo **Trivia** _(parecido com o show do milhão americano)_ utilizando _React e Redux_. O projeto foi desenvolvido em grupo utilizando metodologias ágeis e com as demandas definidas em um quadro _Kanban_. 
+Boas vindas ao repositório do projeto Trivia. <br />
+Nesse projeto foi desenvolvido um jogo de perguntas e respostas baseado no jogo **Trivia** _(parecido com o show do milhão americano)_ utilizando _React e Redux_. O projeto foi desenvolvido em grupo utilizando metodologias ágeis e com as demandas definidas em um quadro _Kanban_. 
 
-# Habilidades
+## Habilidades
 
   - Criar um store Redux em aplicações React
   - Criar reducers no Redux em aplicações React
