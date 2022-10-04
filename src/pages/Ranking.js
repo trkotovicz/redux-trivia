@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import rankingPic from '../assets/imgs/ranking.png';
+import podio from '../assets/imgs/podio.png';
 import wave from '../assets/imgs/wave.svg';
 import IndividualRanking from '../components/IndividualRanking';
 import { actionGetRanking, actionResetGame } from '../redux/actions';
@@ -23,7 +23,7 @@ class Ranking extends Component {
     const { ranking } = this.props;
     return (
       <div className="Ranking-container">
-        <img className="Ranking-picture" src={ rankingPic } alt="Ranking" />
+        <img className="Ranking-picture" src={ podio } alt="Ranking" />
         <section className="Ranking">
           <h1 data-testid="ranking-title">Ranking</h1>
           {ranking.length === 0 && (

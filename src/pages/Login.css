@@ -9,14 +9,16 @@
 }
 
 .Login-picture-container {
-  height: 700px;
+  height: 650px;
+  margin-right: 50px;
   padding: 3rem;
-  width: 700px;
+  width: 650px;
 }
 
 .Login-picture-container img {
   height: 100%;
   object-fit: contain;
+  transform: rotate(-12deg);
   width: 100%;
 }
 

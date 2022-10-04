@@ -92,6 +92,10 @@ class LoginForm extends Component {
           <span>Play</span>
         </button>
         <SettingsButton history={ history } />
+        <br />
+        <br />
+        <p>Powered by Open Trivia Database</p>
+        <p>Some SVG Backgrounds by BGJar</p>
       </form>
     );
   }

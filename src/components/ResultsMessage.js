@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import won from '../assets/imgs/win.png';
 import lose from '../assets/imgs/lose.png';
+import won from '../assets/imgs/won.png';
 import './ResultsMessage.css';
 
 class ResultsMessage extends Component {

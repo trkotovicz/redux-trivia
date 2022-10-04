@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
-import controller from '../assets/imgs/controller.png';
+import CONTROLE_3 from '../assets/imgs/CONTROLE_3.png';
 import LoginForm from '../components/LoginForm';
 import './Login.css';
 import wave from '../assets/imgs/wave.svg';
@@ -12,7 +12,7 @@ class Login extends Component {
     return (
       <main className="Login">
         <div className="Login-picture-container">
-          <img src={ controller } alt="controller" />
+          <img src={ CONTROLE_3 } alt="controller" />
         </div>
         <LoginForm history={ history } />
         <img className="Login-wave" src={ wave } alt="" />
