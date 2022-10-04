@@ -31,8 +31,7 @@ Foi desenvolvido um jogo de perguntas e respostas baseado no jogo **Trivia** _(p
 
 O projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe.
 
-[Thais R Kotovicz](https://www.linkedin.com/in/thaiskotovicz/)
-
+[Thais R Kotovicz](https://www.linkedin.com/in/thaiskotovicz/) <br />
 Elisa Taborda <br />
 Lucas Cabral <br />
 Vitória Holanda <br />
